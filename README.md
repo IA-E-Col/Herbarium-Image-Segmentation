@@ -49,5 +49,5 @@ Download link: https://drive.google.com/drive/folders/1jvUWrNkLfECmdCBDJ0f7bFOo1
 If you use this work, including the code or dataset, please cite it as follows:
 
 Hanane Ariouat, Youcef Skla, Edi Prifti, Jean-Daniel Zucker, Eric Chenin.  
-*Enhancing Plant Morphological Trait Identification in Herbarium Collections through Deep Learning-based Segmentation: Application in Plant Science.* In Press.
+*Enhancing Plant Morphological Trait Identification in Herbarium Collections through Deep Learning-based Segmentation: Application in Plant Science. 2024.* In Press.
 
