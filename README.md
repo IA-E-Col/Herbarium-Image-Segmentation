@@ -1,10 +1,10 @@
-#Herbarium Segmentation
+# Herbarium Segmentation
 
 This repository contains the code,  dataset and pretrained models from the following publication:
 
 *Enhancing Plant Morphological Trait Identification in Herbarium Collections through Deep Learning-based Segmentation*
 
-##Dataset
+## Dataset
 
 See: Download link : https://drive.google.com/drive/folders/1nwtjFNI3EBmn_MJq6kZJINtl2OkZIgfW?usp=sharing )
 
@@ -28,7 +28,7 @@ See: Download link : https://drive.google.com/drive/folders/1nwtjFNI3EBmn_MJq6kZ
 * 456 imgaes for validation
 
 
-##Pretrained models
+## Pretrained models
 
 Download link: https://drive.google.com/drive/folders/1nwtjFNI3EBmn_MJq6kZJINtl2OkZIgfW?usp=sharing
 
@@ -45,7 +45,7 @@ Download link: https://drive.google.com/drive/folders/1nwtjFNI3EBmn_MJq6kZJINtl2
 
 
 
-##Citation
+## Cite this work
 If you use this dataset or code in your research, please use the following BibTeX entry:
 
 To Add
