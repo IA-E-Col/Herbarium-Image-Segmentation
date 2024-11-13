@@ -6,7 +6,7 @@ This repository contains the code,  dataset and pretrained models from the follo
 
 ## Dataset
 
-See: Download link : https://drive.google.com/drive/folders/1nwtjFNI3EBmn_MJq6kZJINtl2OkZIgfW?usp=sharing )
+Download link : https://drive.google.com/drive/folders/1XX6LNxqnETBTrV54XxykF_N38r4glZBc?usp=sharing
 
 * 2,277 (image, mask)
 * Two different backgrounds for masks : Black Background (BB)  and White  Background (WB).
@@ -30,7 +30,7 @@ See: Download link : https://drive.google.com/drive/folders/1nwtjFNI3EBmn_MJq6kZ
 
 ## Pretrained models
 
-Download link: https://drive.google.com/drive/folders/1nwtjFNI3EBmn_MJq6kZJINtl2OkZIgfW?usp=sharing
+Download link: https://drive.google.com/drive/folders/1jvUWrNkLfECmdCBDJ0f7bFOo1j8qQGxv?usp=sharing
 
 ## Inference and Training: 
 
