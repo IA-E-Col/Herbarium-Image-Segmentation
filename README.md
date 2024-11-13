@@ -1,12 +1,12 @@
-**Herbarium Segmentation**
+#Herbarium Segmentation
 
-This repository contains the code,  dataset and retrained models from the following publication:
+This repository contains the code,  dataset and pretrained models from the following publication:
 
 *Enhancing Plant Morphological Trait Identification in Herbarium Collections through Deep Learning-based Segmentation*
 
-**Dataset**
+##Dataset
 
-See: Download link : [https://drive.google.com/drive/folders/1XX6LNxqnETBTrV54XxykF_N38r4glZBc?usp=sharing](https://drive.google.com/drive/folders/1XX6LNxqnETBTrV54XxykF_N38r4glZBc?usp=sharing)
+See: Download link : https://drive.google.com/drive/folders/1nwtjFNI3EBmn_MJq6kZJINtl2OkZIgfW?usp=sharing )
 
 * 2,277 (image, mask)
 * Two different backgrounds for masks : Black Background (BB)  and White  Background (WB).
@@ -27,24 +27,27 @@ See: Download link : [https://drive.google.com/drive/folders/1XX6LNxqnETBTrV54Xx
 * 1821 images for training
 * 456 imgaes for validation
 
-**Pretrained models**
-Inference and Training Code: [https://drive.google.com/file/d/1ZDtxJwfK2OqjCcdiZpMeMTeAkFW3XTji/view?usp=drive_link](https://drive.google.com/file/d/1ZDtxJwfK2OqjCcdiZpMeMTeAkFW3XTji/view?usp=drive_link)
+
+##Pretrained models
+
+Download link: https://drive.google.com/drive/folders/1nwtjFNI3EBmn_MJq6kZJINtl2OkZIgfW?usp=sharing
+
+## Inference and Training: 
 
 	For training: 
 	1. 	Install requirements packages: pip install requirements.txt
-	2. run train.py and configure your datasets. 
+	2. 	run train.py and configure your datasets. 
 
 	For Inference: 
 	1. 	run predict-WB.py for white background or 
-	2. run predict-BB.py for black background. 
+	2. 	run predict-BB.py for black background. 
 
 
-![https://drive.google.com/file/d/1-osHGQUvql2jXh1Ck1kyRVSsx2xaDlcC/view?usp=sharing](https://drive.google.com/file/d/1-osHGQUvql2jXh1Ck1kyRVSsx2xaDlcC/view?usp=sharing)
 
 
-**Citation**
+##Citation
 If you use this dataset or code in your research, please use the following BibTeX entry:
 
-A faire
+To Add
 
 
