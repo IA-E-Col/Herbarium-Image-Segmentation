@@ -27,6 +27,9 @@ Download link : https://figshare.com/s/ab9813a29f0ce2e4e8d5
 * 1821 images for training
 * 456 imgaes for validation
 
+## Cite the dataset
+
+SKLAB, Youcef; Sklab, Hanane; Prifti, Edi; Chenin, Eric; Zucker, Jean-Daniel (2024). Herbarium Image Segmentation Dataset with Plant Masks for Enhanced Morphological Trait Analysis. figshare. Dataset. https://doi.org/10.6084/m9.figshare.27685914.v1
 
 ## Pretrained models
 
